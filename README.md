@@ -6,17 +6,25 @@ The SIEM Detection Lab project aimed to establish a controlled environment for s
 
 ### Skills Learned
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
+. Advanced understanding of SIEM concepts and practical application.
+. Proficiency in analyzing and interpreting network logs.
+. Ability to generate and recognize attack signatures and patterns.
+. Enhanced knowledge of network protocols and security vulnerabilities.
+. Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 
 Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
+Network analysis tools (Wireshark) for capturing and examining network traffic.
+Telemetry generation tools (Zenmap) to create realistic network traffic and attack scenarios.
 
 ### Steps
+
+Create Azure Subscription
+Create VMs
+Create Resource group 
+Create log Analytics (to ingest the logs)
+Connect VMs to newly created log Analytics
+
+
 
