@@ -2,15 +2,13 @@
 
 ## Objective
 
-The SIEM Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The SIEM Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios.
 
 ## Tools Used
 
 <ul>
-  <li>Security Information and Event Management (SIEM) system for log ingestion and analysis</li>
-  <li>Network analysis tools (Wireshark) for capturing and examining network traffic</li>
-  <li>Telemetry generation tools (Zenmap - Nping) to create realistic network traffic and attack scenarios</li>
-</ul>
+  <li>Security Information and Event Management (SIEM) Azure sentinel system for log ingestion and analysis</li>
+  </ul>
 
 ## Workflow
 
@@ -24,25 +22,6 @@ The SIEM Detection Lab project aimed to establish a controlled environment for s
 <ul>
 <li>Install, configure data sources, create detection rules, and set up dashboards.</li>
 </ul>
-
-#### Install and Use Network Analysis Tools:
-<ul>
-<li>Install Wireshark, capture and analyze network traffic.</li>
-</ul>
-
-#### Generate Telemetry:
-
-<ul>
-<li>Install Zenmap and Nping, perform scans, simulate attacks, and analyze results.</li>
-</ul>
-
-#### Correlate and Document:
-
-<ul>
-<li>Ensure SIEM detection, document findings, create reports.</li>
-</ul>
-
-
 
 ## Steps for Setting Up the SIEM-Detection-Lab
 
@@ -153,18 +132,11 @@ The SIEM Detection Lab project aimed to establish a controlled environment for s
 </ul> 
 
 
-
-
-
-
-
 ## Skills Learned Recap
 
 <ul>
   <li>Advanced understanding of SIEM concepts and practical application</li>
-  <li> Proficiency in analyzing and interpreting network logs</li>
-  <li>Ability to generate and recognize attack signatures and patterns</li>
-<li>Enhanced knowledge of network protocols and security vulnerabilitie</li>
-<li>Development of critical thinking and problem-solving skills in cybersecurity</li>
+  <li> Proficiency in Log Collection and Analysis</li>
+  <li>Custom Rule Development and Tuning</li>
 </ul>
 
